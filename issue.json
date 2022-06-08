@@ -1,0 +1,48 @@
+{
+  "issues": [
+    {
+      "issuedescription": "am i joke to you",
+      "severity": "Minor",
+      "status": "Closed",
+      "createddate": "2021-04-19",
+      "resolveddate": "2021-04-21",
+      "count": 6,
+      "id": 9
+    },
+    {
+      "issuedescription": "hello world",
+      "severity": "Minor",
+      "status": "Closed",
+      "createddate": "2021-07-05",
+      "resolveddate": "2021-07-14",
+      "count": 0,
+      "id": 12
+    }
+  ],
+  "login": [
+    {
+      "email": "a@a.com",
+      "password": "a",
+      "redirectToReferrer": false,
+      "id": 1
+    },
+    {
+      "email": "a@a.com",
+      "password": "a",
+      "redirectToReferrer": false,
+      "id": 2
+    }
+  ],
+  "register": [
+    {
+      "firstName": "Ganesh",
+      "lastName": "K",
+      "email": "a@a.com",
+      "password": "a",
+      "confirmPassword": "a",
+      "mobileNo": "1234512345",
+      "redirectToReferrer": false,
+      "id": 1
+    }
+  ]
+}

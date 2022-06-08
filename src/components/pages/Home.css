@@ -1,0 +1,13 @@
+.Home{
+    background-color:rgb(163, 235, 135);
+}
+.header__searchInput{
+    height: 50px;
+    padding: 8px;
+    border: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-color: rgb(228, 12, 12);
+    width: 30%;
+}
+
