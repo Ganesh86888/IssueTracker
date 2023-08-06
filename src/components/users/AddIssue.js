@@ -129,11 +129,11 @@ import { Redirect, useHistory,Prompt } from 'react-router-dom';
  
      return errors;
    },
-   handleSubmit:(values, { setSubmitting }) => {
+   handleSubmit:(values, { setSubmitting,props }) => {
     setTimeout(() => {
       axios.post("http://localhost:3001/issues/",values)
       setSubmitting(false);
-      
+      props.history.push("/");
     }, 1000);
   },
    displayName: 'BasicForm',

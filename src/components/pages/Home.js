@@ -116,7 +116,7 @@ const Home = (props) => {
           
           <div key={id} className="bg-gray-800 p-4 rounded">
             <h2 className="font-bold text-yellow-400 text-3xl mb-4">
-               <span className="font-light">{issuedescription}</span>
+              <span className="font-light" onClick={()=>view(id)}>{issuedescription}</span>
             </h2>
           
             <ul>

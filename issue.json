@@ -12,11 +12,65 @@
     {
       "issuedescription": "hello world",
       "severity": "Minor",
-      "status": "Closed",
+      "status": "Open",
       "createddate": "2021-07-05",
       "resolveddate": "2021-07-14",
-      "count": 0,
+      "count": 3,
       "id": 12
+    },
+    {
+      "issuedescription": "Submit button is not working",
+      "severity": "Major",
+      "status": "Closed",
+      "createddate": "2023-08-05",
+      "resolveddate": "2023-08-07",
+      "count": 6,
+      "id": 13
+    },
+    {
+      "issuedescription": "create radar",
+      "severity": "Major",
+      "status": "Open",
+      "createddate": "2023-08-06",
+      "resolveddate": "2023-08-09",
+      "count": 0,
+      "id": 14
+    },
+    {
+      "issuedescription": "create radar1",
+      "severity": "Major",
+      "status": "Open",
+      "createddate": "2023-08-07",
+      "resolveddate": "2023-08-15",
+      "count": 0,
+      "id": 15
+    },
+    {
+      "issuedescription": "create radar2",
+      "severity": "Major",
+      "status": "Open",
+      "createddate": "2023-08-07",
+      "resolveddate": "2023-08-09",
+      "count": 0,
+      "id": 16
+    },
+    {
+      "issuedescription": "create radar 3",
+      "severity": "Critical",
+      "status": "Open",
+      "createddate": "2023-08-07",
+      "resolveddate": "2023-08-08",
+      "count": 5,
+      "id": 17
+    },
+    {
+      "issuedescription": "create radar 4",
+      "severity": "",
+      "status": "",
+      "createddate": "",
+      "resolveddate": "",
+      "count": 2,
+      "id": 18
     }
   ],
   "login": [
@@ -31,6 +85,18 @@
       "password": "a",
       "redirectToReferrer": false,
       "id": 2
+    },
+    {
+      "email": "a@a.com",
+      "password": "a",
+      "redirectToReferrer": false,
+      "id": 3
+    },
+    {
+      "email": "a@a.com",
+      "password": "a",
+      "redirectToReferrer": false,
+      "id": 4
     }
   ],
   "register": [
@@ -43,6 +109,16 @@
       "mobileNo": "1234512345",
       "redirectToReferrer": false,
       "id": 1
+    },
+    {
+      "firstName": "Ganesh",
+      "lastName": "Kamalakannan",
+      "email": "a@a.com",
+      "password": "a",
+      "confirmPassword": "a",
+      "mobileNo": "1234512345",
+      "redirectToReferrer": false,
+      "id": 2
     }
   ]
 }
